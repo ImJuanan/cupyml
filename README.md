@@ -1,5 +1,7 @@
 # Cupy for Machine Learning: Overwriting classical machine learning algorithms using CuPy.  
-<br>The repo uses [CuPy](https://docs.cupy.dev/en/stable/) only, so please assure that you've installed the correct version of [CUDA](https://developer.nvidia.com/cuda-toolkit) requested before running the code. What have done for now as belows.
+<br>The repo uses [CuPy](https://docs.cupy.dev/en/stable/) only, so assure that you've installed the correct version of [CUDA](https://developer.nvidia.com/cuda-toolkit) requested before running the code. If you wanna be a contributor for this repo, please send pull requests to me.  
+
+What have done for now are as follows.
 ## Linear models
 1. Linear regression (√)
 2. Ridge regression (√)
