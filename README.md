@@ -12,11 +12,13 @@ If you want to be a contributor for this repo, just submit a pull request.
 What have done for now are as follows.
 
 ## Linear models
+
 1. Linear regression
 2. Ridge regression
-3. Logistic regression (âˆ
+3. Logistic regression
 
 ## Metircs
+
 1. Mean Absolute Error
 2. Mean Square Error
 3. Mean squared logarithmic error
